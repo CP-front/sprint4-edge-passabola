@@ -251,15 +251,12 @@ Com todas as fases de instalação concluídas, o sistema está operacional:
 A Prova de Conceito foi validada. O "site" é representado pelo nosso Dashboard dinâmico em Python, que consome a API HTTP do FIWARE exatamente como o front-end final do "Passa a Bola" faria.
 
 **Print 1: Dashboard Final em Funcionamento (com Múltiplos Check-ins)**
-*(Aqui você insere a imagem `image_b08339.png`, mostrando a lista com 3 jogadoras).*
 ![Dashboard Final](./img/contador%20pessoas.png)
 
 **Print 2: Monitor Serial (ESP32 Enviando Dados)**
-*(Aqui você insere uma imagem como a `image_0ac4a5.png`, mostrando o envio do payload UltraLight).*
 ![Monitor Serial](./img/contador%20esp32.png)
 
 **Print 3: Postman (Orion - Estado Atual OK)**
-*(Aqui você insere uma imagem como a `image_7e9825.png`, mostrando o 200 OK do Orion).*
 ![Postman Orion](./img/contador%20postman.png)
 
 ---
