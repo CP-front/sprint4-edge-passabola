@@ -1,0 +1,17 @@
+[Unit]
+Description=Passa a Bola Dashboard Service
+After=network.target docker.service
+Wants=docker.service
+
+[Service]
+User=rotadeo
+Group=rotadeo
+WorkingDirectory=/home/rotadeo/fiware
+ExecStart=/home/rotadeo/fiware/dash-env/bin/python3 /home/rotadeo/fiware/dashboard.py
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

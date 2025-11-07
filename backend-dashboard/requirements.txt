@@ -1,0 +1,7 @@
+# Bibliotecas principais para o Dashboard
+dash
+plotly
+pandas
+requests
+dash-bootstrap-components
+pytz
