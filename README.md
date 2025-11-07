@@ -3,6 +3,10 @@
 
 Repositório final para a disciplina de Edge Computing and Computer Systems, demonstrando uma Prova de Conceito (PoC) funcional de uma arquitetura IoT completa, desde a coleta de dados no dispositivo de borda (edge) até a visualização em um dashboard dinâmico.
 
+🔗 **Vídeo explicativo no YouTube:** [Clique aqui para abrir](https://youtu.be/iLlr0hzQKF8?si=qaeBIQXRiDaR5Aba)
+
+🔗 **Projeto no Wokwi:** [Clique aqui para abrir](https://wokwi.com/projects/445024602202020865)
+
 ---
 
 ### Arquitetura da Solução

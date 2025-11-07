@@ -7,7 +7,6 @@
  *
  * PROJETO "PASSA A BOLA ENCONTROS" (COM FIWARE DESCOMPLICADO)
  * Sistema de Check-in por Presença
- * Versão Final CORRIGIDA - Alinhada com a Collection do Postman (Modelo Estático)
  ****************************************************************************************/
 #include <WiFi.h>
 #include <PubSubClient.h>
