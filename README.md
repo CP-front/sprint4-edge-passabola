@@ -11,9 +11,11 @@ Repositório final para a disciplina de Edge Computing and Computer Systems, dem
 
 ### Arquitetura da Solução
 ![Arquitetura](./img/FiwareDeploy_new_v5%20(1).drawio%20(1).png)
+
 ---
 
 ### 1. Integrantes (Grupo: Visionary Solutions)
+* 1ESPG
 * Arthur Araújo Tenório - 562272
 * Breno Gonçalves Báo - 564037
 * Rodrigo Cardoso Tadeo - 562010
@@ -293,3 +295,10 @@ pip install -r requirements.txt
 [Documentação Oficial do Dash Plotly](https://dash.plotly.com)
 
 [Documentação do FIWARE Orion](https://fiware-orion.readthedocs.io/en/master)
+
+---
+
+### 14. Licença
+
+Este projeto é livre para uso educacional. Para uso comercial, consulte os autores.
+
